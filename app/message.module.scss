@@ -1,0 +1,23 @@
+.positiveContainer, .negativeContainer {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+    z-index: 6;
+
+}
+
+.positiveContainer {
+
+    background-color: lightgreen;
+    color: black;
+}
+
+.negativeContainer {
+
+    background-color: lightcoral;
+    color: white;
+}
+
